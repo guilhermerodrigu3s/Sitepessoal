@@ -1,4 +1,3 @@
-````md
 # 🎨 Minimalist Portfolio Website
 
 A modern, minimalist portfolio website designed to showcase my work, academic achievements, and personal projects.
@@ -67,22 +66,22 @@ This project was created with a strong focus on **clean UI/UX**, **responsive de
 
 ## 🎯 Design Concept
 
-The entire interface follows a **minimalist black-and-white aesthetic**, emphasizing readability, whitespace, and elegant typography.
+The portfolio embraces a **minimalist black-and-white aesthetic**, emphasizing clarity, whitespace, and elegant typography.
 
-The illustrations are inspired by:
+The handcrafted illustrations are inspired by:
 
 - 🎸 Music
 - 🌿 Nature
 - 💻 Software Development
 - 🧘 Mindfulness
 
-Together, these elements create a calm and organized visual experience while reinforcing the portfolio's personal identity.
+Together, these elements create a calm and organized visual identity while reflecting both my technical and creative interests.
 
 ---
 
 ## 📱 Responsive Design
 
-The layout was designed to adapt seamlessly across different devices while maintaining visual consistency and usability.
+The interface was designed to provide a consistent experience across desktops, tablets, and mobile devices.
 
 ---
 
@@ -114,4 +113,3 @@ The layout was designed to adapt seamlessly across different devices while maint
 ---
 
 If you enjoyed this project, consider giving it a ⭐ on GitHub.
-````
